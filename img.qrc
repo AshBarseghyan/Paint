@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/tools">
+        <file>eraser.png</file>
+        <file>pen.png</file>
+        <file>text.png</file>
+        <file>palette.png</file>
+        <file>circle.png</file>
+        <file>rectangle.png</file>
+        <file>save.png</file>
+        <file>line.png</file>
+        <file>colorBeam.png</file>
+        <file>cross_cursor.png</file>
+        <file>eraser_cursor.png</file>
+        <file>pen_cursor.png</file>
+        <file>favicon.png</file>
+    </qresource>
+</RCC>
